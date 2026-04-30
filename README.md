@@ -14,35 +14,30 @@ Simulation Link : https://wokwi.com/projects/462355286077702145
 - Buzzer alert system
 - Energy saving
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - ESP32 / Arduino
 - Embedded C
 - Wokwi Simulation
 
-## 🔌 Components
+##  Components
 - PIR Sensor
 - LED
 - Buzzer
 - LCD (I2C)
 
-## ⚙️ Working
+##  Working
 1. PIR detects motion
 2. LED turns ON
 3. LCD shows "Motion Detected"
 4. After no motion, system turns OFF automatically
 
-## ▶️ How to Run
-1. Upload code to ESP32
-2. Connect components as per circuit
-3. Power ON the system
 
-## 📸 Output
-(Add your circuit image here)
+##  Output
 
-## 📈 Future Scope
+##  Future Scope
 - Mobile app integration
 - Voice control
 - AI-based usage tracking
 
 ## 👨‍💻 Author
-Yash
+Yash Dhame
