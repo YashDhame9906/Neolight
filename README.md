@@ -32,7 +32,11 @@ Simulation Link : https://wokwi.com/projects/462355286077702145
 4. After no motion, system turns OFF automatically
 
 
-##  Output
+##  Circuit
+<img width="635" height="652" alt="image" src="https://github.com/user-attachments/assets/b327a14c-a33a-4378-8fb8-b8fa52f74b65" />
+
+
+
 
 ##  Future Scope
 - Mobile app integration
