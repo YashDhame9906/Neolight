@@ -49,12 +49,14 @@ void loop() {
       lastBeepTime = millis(); // reset beep timer
     }
 
-    //  Beep every 30 seconds
+    //   Beep every 30 seconds
     unsigned long currentTime = millis();
     if (currentTime - lastBeepTime >= 30000) {
-      ledcWrite(BUZZER_PIN, 128); // ON
+      ledcWrite(BUZZER_PIN, 128); 
+      // ON
       delay(200);
-      ledcWrite(BUZZER_PIN, 0);   // OFF
+      ledcWrite(BUZZER_PIN, 0);  
+      // OFF
 
       lastBeepTime = currentTime;
     }
