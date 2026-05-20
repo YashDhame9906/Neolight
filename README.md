@@ -7,7 +7,7 @@ NeoLight is an IoT-based smart study lamp that detects motion using a PIR sensor
 This project focuses on Power Saving.
 
 
-Simulation Link : https://wokwi.com/projects/462355286077702145
+Simulation Link: https://wokwi.com/projects/464519388328526849
 
 ##  Features
 - Motion detection using PIR sensor
