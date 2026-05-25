@@ -35,6 +35,7 @@ Simulation Link: https://wokwi.com/projects/464519388328526849
 
 
 ##  Circuit
+
 <img width="635" height="652" alt="image" src="https://github.com/user-attachments/assets/b327a14c-a33a-4378-8fb8-b8fa52f74b65" />
 
 
